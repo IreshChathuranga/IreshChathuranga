@@ -52,6 +52,7 @@ if __name__ == '__main__':
 <h3 align="center">Languages:</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -89,6 +90,26 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-2D2A32?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-1B4332?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">CSS Frameworks:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-3A0CA3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3F3D56?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">Database Management:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-%6DA55F.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=BCAE79" />
 </p>
 
 
