@@ -4,7 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ireshchathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="ireshchathuranga" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🌱 I’m currently learning **at Iat IJSE-Institute of Software Engineering**
 
@@ -15,6 +17,12 @@
 - 📫 How to reach me **ireshchathuranga63309@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+</td>
+<td width="50%" align="center">
+  <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
