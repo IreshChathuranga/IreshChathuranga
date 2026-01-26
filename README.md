@@ -71,6 +71,25 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/ts--node-FDF2F8?style=for-the-badge&logo=ts-node&logoColor=black" />
 </p>
 
+---
+
+<h3 align="center">Front-End Development:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0F3D3E?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">Mobile Development:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-2D2A32?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1B4332?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
