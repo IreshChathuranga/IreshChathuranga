@@ -1,8 +1,22 @@
-
 <h1 align="center">Hi 👋, I'm Iresh Chathuranga</h1>
 <h3 align="center">Student at IJSE-Institute of Software Engineering</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ireshchathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="ireshchathuranga" /> </p>
 
+```python
+class IreshTrips():
+    
+  def __init__(self):
+    self.name = "Iresh Chathuranga";
+    self.username = "ireshChathuranga";
+    self.location = "Ambalangoda, Sri lanka";
+    self.email = "ireshchathuranga63309@gmail.com";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = IreshTrips()
+```
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
