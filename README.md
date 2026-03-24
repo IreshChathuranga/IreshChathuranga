@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
 - 🌱 I’m currently learning **at Iat IJSE-Institute of Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://ireshchathuranga.vercel.app/](https://ireshchathuranga.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ireshchathuranga.vercel.app/](https://portfolio-zr2m.vercel.app/)
 
 - 💬 Ask me about **html, js, css, java, javaFx...**
 
