@@ -58,6 +58,7 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-yellow?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Php-purple?style=for-the-badge&logo=php&logoColor=black" />
 </p>
 
 ---
@@ -71,6 +72,7 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=000000" />
   <img src="https://img.shields.io/badge/Jakarta_EE-1E293B?style=for-the-badge&logo=jakarta-ee&logoColor=white" />
   <img src="https://img.shields.io/badge/ts--node-FDF2F8?style=for-the-badge&logo=ts-node&logoColor=black" />
+  <img src="https://img.shields.io/badge/laravel-38B2AC?style=for-the-badge&logo=laravel&logoColor=black" />
 </p>
 
 ---
