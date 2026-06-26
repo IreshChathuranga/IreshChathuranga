@@ -1,6 +1,13 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Iresh Chathuranga</h1>
-<h3 align="center">Student at IJSE-Institute of Software Engineering</h3>
+<h3 align="center">
+  🚀 Full Stack Developer | Software Engineering 
+</h3>
+
+<p align="center">
+  Building scalable web applications with modern technologies.
+  Passionate about clean code, backend architecture, and creating impactful software solutions.
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ireshchathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="ireshchathuranga" /> </p>
 
 ```python
